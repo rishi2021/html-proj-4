@@ -1,0 +1,17 @@
+h1{
+    color:brown;
+
+}
+
+*{
+    border:solid;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
